@@ -1,0 +1,41 @@
+_repo: The-White-Crystals--Being-an-Account-of-the-Adventures-of-Two-Boys_38558
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bates, Bertha Corson Day
+    alias: Day, Bertha Corson
+    birthdate: 1875
+    deathdate: 1968
+    gutenberg_agent_id: '39299'
+    url: http://www.gutenberg.org/2009/agents/39299
+covers:
+- cover_type: archival
+  image_path: 38558-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2012-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+title: 'The White Crystals: Being an Account of the Adventures of Two Boys'
+url: http://www.gutenberg.org/ebooks/38558
